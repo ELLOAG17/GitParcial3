@@ -1,3 +1,8 @@
 # GitParcial3 
 
-Elian Lopez Aguilar
+Owner: Elian Lopez Aguilar
+
+
+Collaborators:
+
+Bidkar AC @bidkar
